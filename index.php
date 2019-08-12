@@ -85,7 +85,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 ?>
 <html>
 <head>
-	<title>PHP Image Processing Example - codescracker</title>
+	<title>Image Processing Example with PHP</title>
 </head>
 <body>
 <?php 
